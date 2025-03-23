@@ -1,3 +1,4 @@
+<!-- src/App.vue -->
 <template>
   <nav>
     <router-link to="/">Home</router-link> |
